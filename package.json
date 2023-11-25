@@ -1,0 +1,11 @@
+{
+  "name": "router-context",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://www.github.com/OrionRiitters/router-context",
+  "author": "Orion Riitters <orionriitters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
